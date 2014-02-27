@@ -1,0 +1,11 @@
+*~
+*.swp
+*.orig
+
+/target
+/bin
+
+.classpath
+.project
+.settings
+.hg
